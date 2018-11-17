@@ -1,0 +1,33 @@
+<style>
+header {
+text-align: center;
+color: white;
+font-familt: arial;
+background: url("./rainbow.png");
+background-size: cover;
+max width: 100px;
+}
+img {
+  border: solid white;
+  border-radius: 80px;
+}
+li {
+  display: inline;
+  text-align: center;
+  padding: 10px 10px 10px 10px;
+}
+ul {
+  padding: 10px;
+  background: #F59;
+}
+body {
+  background: #F89;
+  color: black;
+  font-family: arial;
+  max width: 100px;
+  text-align: center;
+}
+a {
+  color: white;
+}
+</style>
