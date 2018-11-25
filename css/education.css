@@ -8,11 +8,11 @@ font-family: 'Shadows Into Light', cursive;
 }
 img {
   border: solid white;
-  border-radius: 80px;
+  border-radius: 50px;
 }
 body {
   font-family: arial;
-  font: red;
+  color: red;
   background: purple;
 }
 </style>
