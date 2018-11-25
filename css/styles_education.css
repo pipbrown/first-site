@@ -10,3 +10,8 @@ img {
   border: solid white;
   border-radius: 80px;
 }
+body {
+  font-family: arial;
+  font: red;
+  background: purple;
+}
