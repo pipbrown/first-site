@@ -1,8 +1,10 @@
 <style>
+<link href="https://fonts.googleapis.com/css?family=Shadows+Into+Light" rel="stylesheet">
+
 header {
 text-align: center;
 color: white;
-font-familt: arial;
+font-family: 'Shadows Into Light', cursive;
 background: url("./rainbow.png");
 background-size: cover;
 max width: 100px;
